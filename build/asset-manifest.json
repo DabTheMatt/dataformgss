@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dataformgss/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dataformgss/static/js/main.53081220.chunk.js",
+    "main.js.map": "/dataformgss/static/js/main.53081220.chunk.js.map",
+    "runtime-main.js": "/dataformgss/static/js/runtime-main.aaa7295e.js",
+    "runtime-main.js.map": "/dataformgss/static/js/runtime-main.aaa7295e.js.map",
+    "static/js/2.fb84c3b9.chunk.js": "/dataformgss/static/js/2.fb84c3b9.chunk.js",
+    "static/js/2.fb84c3b9.chunk.js.map": "/dataformgss/static/js/2.fb84c3b9.chunk.js.map",
+    "index.html": "/dataformgss/index.html",
+    "precache-manifest.bbb114c5b1f40d00f34fb42fdea0b1f7.js": "/dataformgss/precache-manifest.bbb114c5b1f40d00f34fb42fdea0b1f7.js",
+    "service-worker.js": "/dataformgss/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dataformgss/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fb84c3b9.chunk.js.LICENSE.txt": "/dataformgss/static/js/2.fb84c3b9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dataformgss/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaa7295e.js",
+    "static/js/2.fb84c3b9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.53081220.chunk.js"
+  ]
+}
