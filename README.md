@@ -1,2 +1,1 @@
-# dataformgss
-Testing area. Reading data from google spreadsheet
+Hello Google Spreadsheet
